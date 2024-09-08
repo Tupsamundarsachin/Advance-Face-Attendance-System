@@ -1,5 +1,8 @@
 # face-attendance-system
 The Advanced Face Attendance System is an enhanced computer vision-based application that not only detects and recognizes faces for attendance logging but also includes an anti-spoofing feature. This feature ensures the system can differentiate between real-life persons and photographs or videos, enhancing security.
+
+
+
 ![Spoofing](https://github.com/user-attachments/assets/89a43614-271f-45f0-8956-7d2550856bfa)
 
 
