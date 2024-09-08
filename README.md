@@ -19,11 +19,11 @@ Remember to add the Silent-Face-Anti-Spoofing directory to your **PYTHONPATH**.
 
 ## Features
 
-10 Face Detection and Recognition: Identifies and authenticates users based on their facial features.
-2) Anti-Spoofing: Detects and blocks attempts to fool the system using photos or videos.
-3) Automatic Attendance Logging: Logs recognized users' attendance with timestamps.
-4) New User Registration: Allows new users to register by capturing their facial data and storing it securely in the database.
-5) Real-time Processing: Continuously processes live webcam feed for immediate recognition and feedback.
+    1) Face Detection and Recognition: Identifies and authenticates users based on their facial features.
+    2) Anti-Spoofing: Detects and blocks attempts to fool the system using photos or videos.
+    3) Automatic Attendance Logging: Logs recognized users' attendance with timestamps.
+    4) New User Registration: Allows new users to register by capturing their facial data and storing it securely in the database.
+    5) Real-time Processing: Continuously processes live webcam feed for immediate recognition and feedback.
 
 
 ## Requirements
